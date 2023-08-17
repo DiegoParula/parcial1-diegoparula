@@ -50,10 +50,7 @@ function App() {
       setError(true)
     }
 
-
-    console.log(usuario)
-
-
+ 
   }
 
   return (
